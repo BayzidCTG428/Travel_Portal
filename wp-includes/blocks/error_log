@@ -1,0 +1,8 @@
+[19-Feb-2023 17:03:00 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/bayzidsi/travelportal.bayzidsimon.com/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/bayzidsi/travelportal.bayzidsimon.com/wp-includes/blocks/index.php on line 8
+[19-Feb-2023 17:05:09 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/bayzidsi/travelportal.bayzidsimon.com/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/bayzidsi/travelportal.bayzidsimon.com/wp-includes/blocks/index.php on line 8

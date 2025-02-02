@@ -1,0 +1,8 @@
+[19-Feb-2023 17:03:19 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/bayzidsi/travelportal.bayzidsimon.com/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/bayzidsi/travelportal.bayzidsimon.com/wp-includes/widgets/class-wp-widget-block.php on line 17
+[19-Feb-2023 17:05:15 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/bayzidsi/travelportal.bayzidsimon.com/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/bayzidsi/travelportal.bayzidsimon.com/wp-includes/widgets/class-wp-widget-block.php on line 17
